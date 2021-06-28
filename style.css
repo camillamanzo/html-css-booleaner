@@ -1,0 +1,62 @@
+header {
+    background-image: url("../images/img/pattern.png");
+    background-repeat: repeat-x;
+    background-color: dodgerblue;
+}
+
+#logo {
+    width: 200px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.grigio {
+    color: grey;
+}
+
+#azzurro {
+    color: deepskyblue;
+}
+
+.giallo {
+    background-color: yellow;
+}
+
+ul {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+th {
+    color: white;
+    background-color: dodgerblue;
+    width: 24%;
+    text-align: left;
+}
+
+td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.colored {
+    background-color: lightblue;
+}
+
+footer>h3{
+    color: white;
+    width: 250px;
+    height: 200px;
+}
+
+#sfondo1 {
+    background-image: url("../images/img/monitor.jpg");
+}
+
+#sfondo2 {
+    background-image: url("../images/img/graph.jpg");
+    margin-top: 10px;
+}
+
+
+
