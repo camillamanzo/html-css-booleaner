@@ -1,3 +1,5 @@
+
+
 header {
     background-image: url("../images/img/pattern.png");
     background-repeat: repeat-x;
@@ -14,7 +16,7 @@ header {
     color: grey;
 }
 
-#azzurro {
+.azzurro {
     color: deepskyblue;
 }
 
